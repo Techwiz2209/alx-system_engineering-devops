@@ -1,0 +1,2 @@
+#!/bin/bash
+echo $(($TRUEKNOWLEDG + I28))
